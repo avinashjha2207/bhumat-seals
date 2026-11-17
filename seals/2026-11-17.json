@@ -1,0 +1,10 @@
+{
+  "day": "2026-11-17",
+  "polls": 25,
+  "lokmat_votes": 10640,
+  "janmat_ballots": 12520,
+  "janmat_receipts": 12520,
+  "seal": "94922a48d3cfcca0b12e4ef5f263c0a81dade04db3210862a1dcf1a39a27aced",
+  "previous_seal": "38dacd0e59072d0c15f3d551e4a877aeba2cac8e4a443bb3123eba9dedebea1b",
+  "code_version": "seal v2"
+}
